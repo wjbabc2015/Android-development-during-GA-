@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Edema Detect App</string>
+    <string name="gender_selection">what`s your gender:</string>
+    <string name="instruction">Please select ...</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>I don`t want to say!</item>
+    </string-array>
+
+    <string-array name="Feeling_level">
+        <item>0 -- Very bad</item>
+        <item>1 -- </item>
+        <item>2 -- </item>
+        <item>3 -- Bad</item>
+        <item>4 -- </item>
+        <item>5 -- Normal</item>
+        <item>6 -- </item>
+        <item>7 -- Good</item>
+        <item>8 -- </item>
+        <item>9 -- </item>
+        <item>10 -- Very good</item>
+    </string-array>
+
+    <string-array name="Breath_level">
+        <item>0 -- Nothing at all</item>
+        <item>1 -- Very slight</item>
+        <item>2 -- Slight</item>
+        <item>3 -- Moderate</item>
+        <item>4 -- Somewhat severe</item>
+        <item>5 -- Severe</item>
+        <item>6 -- </item>
+        <item>7 -- Very severe</item>
+        <item>8 -- </item>
+        <item>9 -- Very, very severe (almost maximal)</item>
+        <item>10 -- Maximal</item>
+    </string-array>
+</resources>
